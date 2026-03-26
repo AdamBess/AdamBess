@@ -24,4 +24,4 @@ TypeScript · React · NestJS · LangChain · LangGraph · PostgreSQL · pgvecto
 
 ## Let's connect
 
-[LinkedIn](https://www.linkedin.com/in/adam-bessisso-a208b633a))
+[LinkedIn](https://www.linkedin.com/in/adam-bessisso-a208b633a)
